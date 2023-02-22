@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "imgURL" :"~~", "name": "valbenie18y", "price": "200000", "comments": [
+    { "id": 1, "imgURL" :"~~", "name": "valbenie18y","heard":false, "price": "200000", "comments": [
     { "id": 1, "nick": "gibeom",  "body": "some comment", "postId": 1, "status" : false }
   ]}
   ],
