@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "imgURL" :"~~", "name": "valbenie18y","heart":false, "price": "200000", "comments": [
+    { "id": 1, "imgURL" :"https://w.namu.la/s/b1e0cfaf1dd515170959b1eab4d858996e27a095a5b52726ed60410d7e8a7842cfea02d1c16aa7171c67a3aca21092fa514ab5c6f21514dcad3914c2f63b9e2a6399a2df24dbdd5a1196cb8b75df56af4fe7d2cd1f357ae235e3789e6bef69e6", "name": "valbenie18y","heart":false, "price": "200000", "comments": [
     { "id": 1, "nick": "gibeom",  "body": "some comment", "postId": 1, "status" : false }
   ]}
   ],
