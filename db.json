@@ -1,9 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "id": 1, "imgURL" :"~~" "name": "valbenie18y", "price": "200000", "comments": [
+    { "id": 1, "nick": "gibeom",  "body": "some comment", "postId": 1, "status" : false, }
+  ],}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+
+  "users":[ { "name": "gibeom", "userID" : "111@11.com" , "userPW" :"11111"}]
 }
+
+
